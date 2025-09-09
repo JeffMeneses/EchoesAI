@@ -9,8 +9,8 @@ Think of it as part **role-playing game**, part **interactive storytelling**, an
 
 
 ## 🚀 Tech Stack
-- **Backend:** FastAPI + SQLAlchemy (API, DB, prompt handling, LLM)
-- **Frontend:** React (chat interface styled like a messenger)
+- **Backend:** Python + FastAPI (API, DB, prompt handling, LLM)
+- **Frontend:** React Native (chat interface styled like a messenger)
 - **Database:** SQLite
 
 
